@@ -47,6 +47,7 @@ Ensure the code is guided by the below patterns:
 - Repository pattern is optional but not required as we are not building a huge repository layer for this project
 
 ## Review
-- You can either fork this repo or create your on your Github profile and send us the link when you are done
-- We will also review your public github projects should they be available
-- Please ensure that you complete a detailed readme.md containing all relevant commands to run the api on a new machine
+- On your Github account create a project for you to house your code and send us the link when you are done.
+- Do not push or create a pull request from this project or any of its branches.
+- We will review your public github projects should they be available.
+- Please ensure that you complete a detailed readme.md containing all relevant commands to run the api on a new machine.
